@@ -33,7 +33,7 @@ else {
 }*/
 
 var max = Math.max(business, minister, army);
-// console.log('Largest value:', max);
+console.log('Largest value:', max);
 
 // Task 1: create a function that takes three numbers as input parameter and returns you the largest number of the three
 
